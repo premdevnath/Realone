@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RealOne</string>
+    <string name="client_id">"492699623192-54p6v063uq3c15bq0lf6s10od2796f90.apps.googleusercontent.com"</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
